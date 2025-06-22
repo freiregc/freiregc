@@ -1,7 +1,20 @@
-## Yo! 👾 Welcome to my Github page! 👾
+## Yo! 👾 I'm Gabriel (or Freire) and welcome to my Github page! 👾
 
-- 🔭 I’m currently working on SENAI-SP developing vision systems with computacional vision using python
-- 🌱 I’m currently learning about artificial intelligence from the postgraduate course "machine learning and artificial intelligence"
-- 🔎 You're find here some about: DevOPS applications and computacional vision applications
+- 🔭 I’m currently working at SENAI-SP developing vision systems with computer vision using Python
+- 🌱 I’m currently learning about artificial intelligence in the postgraduate course "Machine Learning and Artificial Intelligence"
+- 🔎 You'll find here some content about: DevOps and computer vision applications
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freiregc&show_icons=True&theme=dark&text_color=FFFFFF&icon_color=FFFFFF&rank_icon=github)
+##
+
+![](https://github-readme-stats.vercel.app/api?username=freiregc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&padding-right&show_icons=true&icon_color=FFFFFF&text_color=FFFFFF&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freiregc&layout=compact&hide_border=false&theme=dark)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Freire-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+</div>
+
+##
+       
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-freire-da-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
