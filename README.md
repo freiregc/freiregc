@@ -11,6 +11,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Freire-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="right" alt="Freire-dog-gif" height="150" width="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBzNDc3NjhjcDRwdHEwNm5neWcwNDZuazh4NHYxcjRmMnl5MWMyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif">
 </div>
 
 ##
