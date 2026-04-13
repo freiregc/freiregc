@@ -28,18 +28,14 @@
 ## 📈 Github Stats
 
 ### 📌 Profile Summary
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freiregc&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freiregc&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### 📌 Languages & Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freiregc&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=151515&border_color=30363d" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freiregc&show_icons=true&theme=dark&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=151515&border_color=30363d&rank_icon=github" />
-</a>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=freiregc&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=freiregc&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### 📌 Commit Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=freiregc&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=30363d)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=freiregc&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
