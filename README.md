@@ -4,13 +4,13 @@
 - 🚀 My main stack is python to Computer Vision and MLOps 
 - 🔎 Learn and work with LLMs, AI Agentics, Agile and Agile Stage-Gate methods to apply on the projects
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Freire-dog-gif" height="150" width="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBzNDc3NjhjcDRwdHEwNm5neWcwNDZuazh4NHYxcjRmMnl5MWMyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif">
-</div>
-
 ---
 
 ## 📑 Stacks
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="Freire-dog-gif" height="150" width="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBzNDc3NjhjcDRwdHEwNm5neWcwNDZuazh4NHYxcjRmMnl5MWMyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif">
+</div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
