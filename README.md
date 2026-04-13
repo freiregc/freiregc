@@ -1,7 +1,7 @@
 ## 👋 Yo, welcome to my GitHub page!
 
 - 🔭 I’m currently working at Distrito Tecnológico SENAI-SP in AI team
-- 🚀 My main stack is Python to Computer Vision and MLOps 
+- 🚀 My main stack is Python to Computer Vision
 - 🔎 Learn and work with LLMs, AI Agentics, Agile and Agile Stage-Gate methods to apply on the projects
 
 ---
